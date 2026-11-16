@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/Projektmappenelemente/">
+    <File Path="../../source/repos/HTMLPage1.html" />
+  </Folder>
+</Solution>
